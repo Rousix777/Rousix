@@ -1,2 +1,4 @@
 # Rousix
 Strategic Plan
+Short-Term Tactic: Design Rousix Private Placement Memorandum. Develop Rousix Decentralized Autonomous Organization including Community, Cryptocurrency, Stablecoin, Utility & Security Tokens. Obtain Total Liquidity Pool via PPM. Launch Initial Liquidity Offering by way of Automated Market Making Mechanisms.
+OBJECTIVE: Centralization meets Decentralization. Privately-Traded Corporate Liquidity Pool Generator designed to continuously feed decentralized liquidity pools created by way of Uniswap, Pancakeswap, Sushiswap, and more with intention to develop fully-functional, decentralized autonomous organizations (i.e. countries) and future exchanges capable of seamlessly issuing and redeeming debt or equity security instruments; with obligated AIRSP Function (i.e. Automated Internal Revenue Service Protocol).
